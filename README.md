@@ -6,11 +6,16 @@
 
 
 ## Table of Contents
-* [Repository](#repository)
+* [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
 * [License](#license)
+* [Contributing](#contributing)
+* [Questions](#questions)
+
+## Description
+
+Cyber-store is a backend beta program that runs inventory on a beta online store using the following javacript program with databases: express.js, mysql2, & sequelize.
 
 ## Installation
 
@@ -18,8 +23,28 @@ Execute npm install to download the required dependenices: [dotenv](https://www.
 
 ## Usage
 
-## Credits
-
+After cloning repo, run the command at the root of the project on your terminal. You will need to activate mysql2 first, then npm start the program. Be sure to utilize Insomnia to Get, Post, Put, & Delete digital inventory by their categories, products, or tags.
 
 ## License
+The application is covered under the following license:
+     
+[MIT](https://choosealicense.com/licenses/mit/)
 
+## Contributing
+Site: npm Docs - https://docs.npmjs.com/cli/v6/commands/npm-install/
+
+Site: npmjs.com - https://www.npmjs.com/package/mysql2 
+
+Site: Developer Resources Documentation - https://developer.wordpress.org/rest-api/extending-the-rest-api/routes-and-endpoints/#:~:text=HTTP%20Methods,-HTTP%20methods%20are&text=GET%20should%20be%20used%20for,be%20used%20for%20deleting%20resources.
+
+Site: Express.JS - https://expressjs.com/en/guide/using-middleware.html 
+
+Stack Overflow - https://stackoverflow.com/questions/61407393/while-running-the-script-throws-cannot-find-module-dotenv 
+
+MySQL - https://dev.mysql.com/doc/refman/8.0/en/aggregate-functions.html 
+
+## Questions
+
+Thank you for testing this out! Contact me if you have any questions:
+
+Github: alesofia9 Email: alesofia9@hotmail.com
