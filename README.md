@@ -23,7 +23,18 @@ Execute npm install to download the required dependenices: [dotenv](https://www.
 
 ## Usage
 
-After cloning repo, run the command at the root of the project on your terminal. You will need to activate mysql2 first, then npm start the program. Be sure to utilize Insomnia to Get, Post, Put, & Delete digital inventory by their categories, products, or tags.
+After cloning repo, run the command at the root of the project on your terminal. You will need to activate mysql2 first, then npm start the program. Be sure to utilize Insomnia to Get, Post, Put, & Delete digital inventory by their categories, products, or tags. Use the screenshots below as references:
+
+![Alt text](/assets/Screenshot%202023-11-21%20at%2011.19.59 PM.png)
+
+![Alt text](/assets/Screenshot%202023-11-21%20at%2011.21.00 PM.png)
+
+![Alt text](/assets/Screenshot%202023-11-21%20at%2011.23.39 PM.png)
+
+
+URL to Repository: https://github.com/alesofia9/cyber-store
+
+URL to Screencastify: 
 
 ## License
 The application is covered under the following license:
