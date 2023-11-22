@@ -34,7 +34,7 @@ After cloning repo, run the command at the root of the project on your terminal.
 
 URL to Repository: https://github.com/alesofia9/cyber-store
 
-URL to Screencastify: 
+URL to Screencastify: https://watch.screencastify.com/v/4qd5KCOeaNuM8E3rfnmk
 
 ## License
 The application is covered under the following license:
